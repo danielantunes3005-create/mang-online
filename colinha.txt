@@ -1,0 +1,16 @@
+TAGS USADAS
+<h1> = usada em titulos
+<p> = usada para paragrafos
+<strong> = megrito
+<i> = textos italicos
+<br> = pular linha
+
+TAGS DE MARCAÇÃO
+<main> = tag para criar a estrutura dentro da tag <body>
+<footer> = tag para criar ródapé
+<sectaion> = Dividir o codigo
+<div> = dividir o codigo
+<img> = tag para imagens
+
+COMENTARIOS
+<!--meu comentario-->
