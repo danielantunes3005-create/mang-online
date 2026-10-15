@@ -153,3 +153,20 @@ body{
     }
 
 }
+
+@media (max-width: 280px) {
+    
+    .h1 {
+        font-size: 0.60rem;
+    }
+
+    .btn {
+        font-size: 0.60rem;
+        padding: 6px;
+    }
+
+    .page-counter {
+        font-size: 0.60rem;
+    }
+    
+}
