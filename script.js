@@ -68,7 +68,7 @@ function updateReader() {
 
 });
 
-// Passo 7 - Controle pelas setas do teclado
+// Passo 6 - Controle pelas setas do teclado
 document.addEventListener("keydown", (event) => {
     if (event.key === "ArrowLeft" && CurrentPageIndex > 0) {
         CurrentPageIndex--;
