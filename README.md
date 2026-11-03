@@ -5,12 +5,11 @@
 💡 Buscando sempre aprender mais sobre **desenvolvimento de jogos em Unity** e aplicações em **desenvolvimento web**.
 
  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_alcantara1501) 
-[![facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/eduardo.alcantaradesouza)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-alcantara-de-souza-ab518323b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] 
+[![facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://alcantaradesouzae@gmail.com)
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo00747&show_icons=true&theme=highcontrast)
 
 ## 🚀 Tecnologias que uso
 
