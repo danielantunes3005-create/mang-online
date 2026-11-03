@@ -1,4 +1,4 @@
-# Olá, eu sou o Edu. Bem Vindo ao meu Git Hub! 🕹️
+# Olá, eu sou o Daniel. Bem Vindo ao meu Git Hub! 🕹️
 
 🎯 **Desenvolvedor formado em Jogos Digitais pela FATEC-CARAPICUIBA** apaixonada por tecnologia, games e soluções criativas.  
 🚀 Atualmente estudando **Next.js, Node.js, Prisma e MongoDB**.  
@@ -36,6 +36,6 @@ Projeto DIO - onde pude contribuir com meu perfil do Git Hub
 Apaixonado por tecnologia, educação, jógos eletronicos e games em geral.
 
 ## Contatos 
-- Whatssap - 9 5772-4266 <br/>
-- Gmail - alcantaradesouzae@gmail.com <br/>
-- Hotmail - theblack00747@hotmail.com <br/>
+- Whatssap -
+- Gmail - 
+- Hotmail - 
